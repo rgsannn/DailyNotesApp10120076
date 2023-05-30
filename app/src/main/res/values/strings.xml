@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DailyNotesApp</string>
+    <string name="app_desc">DailyNotesApp adalah sebuah aplikasi yang dirancang untuk membantu pengguna dalam mencatat dan mengorganisir catatan harian mereka. Aplikasi ini memungkinkan pengguna untuk membuat catatan, menyimpan ide, mencatat pengalaman, atau mencatat hal-hal penting lainnya dalam kehidupan sehari-hari.</string>
+    <string name="name">Rifqi Galih Nur Ikhsan</string>
+    <string name="nim">10120076</string>
+    <string name="kelas">IF-2</string>
+    <string name="email">hi@im-rgsan.com</string>
+    <string name="username">@rgsannn</string>
+    <string name="bio">I\'m a newbie full stack web developer from Indonesia. I love turning complex problems into simple, beautiful, and intuitive designs. My job is to build your website to be functional and user-friendly but at the same time attractive and easy to use.</string>
+
+    <string name="screen1">Buat Catatan Harian</string>
+    <string name="screen2">Organisir Catatan</string>
+    <string name="screen3">Simpan Ide dan Inspirasi</string>
+    <string name="screen1desc">Aplikasi ini memungkinkan Anda untuk membuat catatan harian dengan mudah. Anda dapat mencatat pengalaman, ide, atau hal penting lainnya yang ingin Anda ingat dalam kehidupan sehari-hari.</string>
+    <string name="screen2desc">Dengan DailyNotesApp, Anda dapat mengorganisir catatan-catatan Anda dengan mudah. Anda dapat membuat kategori, menambahkan label, atau menggunakan fitur pencarian untuk membantu menemukan catatan yang ingin Anda lihat kembali.</string>
+    <string name="screen3desc">Jangan biarkan ide-ide brilian hilang begitu saja. DailyNotesApp memungkinkan Anda untuk menyimpan ide-ide yang muncul kapan pun dan di mana pun. Anda dapat dengan cepat mencatat ide-ide tersebut sehingga Anda tidak perlu khawatir kehilangan inspirasi.</string>
+    <string name="startDesc">Jangan biarkan ide-ide brilian hilang begitu saja.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
